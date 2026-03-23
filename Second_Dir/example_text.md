@@ -1,0 +1,1 @@
+welcome to git i am new to git so i have created the file in mail now i am going to move to folder then i will revert it to check the revert in git
