@@ -1,0 +1,5 @@
+git push to push the code to remote repositories
+git pull to pull the latest to local repository
+
+adding some new content to check the git diff command 
+git diff command is used to check the changes before add and commit

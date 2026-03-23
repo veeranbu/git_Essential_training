@@ -5,3 +5,5 @@ git add . for adding all the file which created or modified in the current repo 
 git commit -m "Message for the commit which you have done"
 
 These three are the basic comment for after git configure
+
+addidng one extra line to check the git diff command 
