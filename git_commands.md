@@ -4,7 +4,7 @@ This is the content
 **git add .** for adding all the file which created or modified in the current repo main.
 **git commit** -m "Message for the commit which you have done"
 
-These three are the basic comment for after git configure
+These three are the basic comment for after git configure 
 
 addidng one extra line to check the git diff command 
 
@@ -174,5 +174,24 @@ index 0000000..8dc38d0
 +# git_Essential_training
 +git_Essential_trainining
 PS C:\Users\Anbu1\git_Essential_training> 
+PS C:\Users\Anbu1\git_Essential_training> git log --oneline
+3ea278b (HEAD -> main, origin/main, origin/HEAD) git command git log and git show commit id
+d5030ed to know about the git restore command
+9858af7 importance about the gitkeep in empty folder
+4e4bc24 renamed the file to check and know about the git commands
+7270ab4 Renamed the file name using the mv command git mv filename
+a52b670 Changing the file name into new file name checking the git status from GUI
+bf4372e git diff
+fe3ad27 git push and git pull command
+06eb0fd git command
+0916770 i am commiting the created git files to the local repo using git commit
+f524cb9 Initial commit
+PS C:\Users\Anbu1\git_Essential_training> 
+
+git checkout comit id 
+eg :git checkout fe3ad27
+it will change the commit to particular commit id for changes 
+git checkout main to return to the orginal commit
+
 
 
