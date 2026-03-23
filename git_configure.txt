@@ -1,0 +1,11 @@
+Setting Username and Email
+Open your command line interface (like Git Bash) to run the following commands: 
+Globally: These settings apply to all repositories on your computer that don't have a specific local configuration.
+Set username: git config --global user.name "YOUR NAME"
+Set email: git config --global user.email "YOUR_EMAIL@example.com"
+For a Specific Repository: Navigate into the desired repository's directory and run the commands without the --global flag. This will override the global settings for only that repository.
+Set username: git config user.name "YOUR NAME"
+Set email: git config user.email "YOUR_EMAIL@example.com"
+
+To check the git configuration use the below command
+git config --list
